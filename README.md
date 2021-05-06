@@ -6,4 +6,4 @@ Defensive: Data_Analysis, Data_Collection, Filesystem_Monitor, Log_Monitor, Netw
 Offensive: Estb_Foothold, Exploitation, Fuzzer, Obfuscation, and Recon
 
 
-#Overview 
+# Overview 

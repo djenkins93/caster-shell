@@ -1,5 +1,5 @@
 # caster-shell
-Bash based cyber security multi-tool composed of both offensive and defensive tools. Essentially meant to be a bare bones back up security scripts. Inspired by "Rapid Cyber-Secuirt Ops with Bash" 
+Bash based cyber security multi-tool composed of both offensive and defensive tools. Essentially meant to be a bare bones back up security scripts. Inspired by "Cybersecurity Ops with bash: Attack, Defend, and Analyze from the Command Line 1st Edition"
 
 # Overview
 Defensive: Data_Analysis, Data_Collection, Filesystem_Monitor, Log_Monitor, Network_Monitor, Fmt_Report, Malware_Analysis 

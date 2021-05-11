@@ -6,3 +6,5 @@ Defensive: Data_Analysis, Data_Collection, Filesystem_Monitor, Log_Monitor, Netw
 
 Offensive: Estb_Foothold, Exploitation, Fuzzer, Obfuscation, and Recon
 
+# Current Issues
+-Offensive cpabilities are under development, but due to certain bugs I won't be posting the bundle is generally bug free. STAY TUNED! ;) 
